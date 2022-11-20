@@ -1,1 +1,2 @@
-This is a Paddle Game based on 
+This is a Paddle Game. 
+A combination of HTML, CSS, and Javascript. 
